@@ -1,0 +1,35 @@
+
+  - How To Install / Informatii:
+  - Ruleaza "Chowder_Launcher.exe" fara a fi nevoie de installer (RECOMANDAT) SAU
+  - Ruleaza "setup.exe"
+
+  	Observatie: -dupa instalare jocul va porni automat
+		    -jocul are volum
+	
+  - Launcher-ul este "Chowder_Launcher.application"
+  - Rezolutia optima pentru joc este 1440 x 900 deoarece aceasta este rezolutia la care a fost realizat jocul
+
+	Observatie: -orice rezolutie mai mare de 1440 x 900 este buna
+		    -orice rezolutie sub 1400 x 900 NU este buna
+
+  - Pentru dezinstalare mergeti la "Control Panel" -> "Uninstall a program" -> "Chowder_Launcher" ("Uninstall")
+  - Enjoy !!!
+
+  ***UPDATE 1.1 -creeat/implementat un algorithm care schimba rezolutia in functie de rezolutia monitorului pe care este rulat jocul pentru Nivelul 01 si Nivelul 02
+
+  ***BUGS to be fixed: -speed-ul game-ului scade direct proportional cu marirea rezolutiei
+		       -falling gravity cursiv daca nu am sarit inainte (space)
+		       -modificat picutre-size in meniul de start
+
+  ***Future updates: -BUG fixes
+		     -implementat armura
+		     -implementat smarter AI //add shooting capability
+		     -implementat boost items
+		     -adaugat ecran tip derulare
+		     -variat mape
+		     -implementat Save-Game
+		     -adaugat End Game
+		     -adaugat background real image, daca se poate //lag
+
+	Observatie: -Chowder_Game_Version1.x este nu contine codul sursa, deci poate fi doar instalat si jucat
+		    -Chowder_Work contine programul VSC#, deci poate fi lucrat in continuare doar de acolo
