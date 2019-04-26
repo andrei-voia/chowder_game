@@ -17,7 +17,7 @@ This is the first level of the game. You have to collect all the 4 fruits that c
 ![alt text](https://github.com/andrei-voia/chowder_game/blob/master/Screenshot_3.png "game")
 
 
-This game can be even played in 2, in a pvp mode.
+This game can be even played in 2 players, in a pvp mode.
 
 ![alt text](https://github.com/andrei-voia/chowder_game/blob/master/Screenshot_4.png "game")
 
@@ -25,3 +25,8 @@ This game can be even played in 2, in a pvp mode.
 By starting the pvp mode, the last man standing alive will be the one that wins the level.
 
 ![alt text](https://github.com/andrei-voia/chowder_game/blob/master/Screenshot_5.png "game")
+
+
+## More details
+
+For more details, please check the .docx file from this project.
