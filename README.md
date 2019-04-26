@@ -1,1 +1,1 @@
-# chowder_game
+# Chowder the Game
